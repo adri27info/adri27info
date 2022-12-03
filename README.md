@@ -8,11 +8,11 @@
 <div align="center"> 
   <h3 >Info about me:</h3>
   <div style="display: flex; flex-flow: column wrap; justify-content: center; align-items: center;">
-    <div>🏠 I live in Palma del Río - Córdoba (Spain)</div>
-    <div>💗 I love everything that has to do with technology.</div>
-    <div>⚡ I consider myself responsible, hardworking and a good partner.</div>
-    <div>🌱 I’m currently learning **Laravel**</div>
-    <div>📫 How to reach me: **adri27informatica@gmail.com**</div>
+    <div>🏠 I live in <b>Palma del Río - Córdoba (Spain)</b></div>
+    <div>💗 I love everything that has to do with <b>technology</b></div>
+    <div>⚡ I consider myself <b> responsible, hardworking and a good partner </b></div>
+    <div>🌱 I’m currently learning <b>Laravel</b></div>
+    <div>📫 How to reach me: <b>adri27informatica@gmail.com</b></div>
   </div>
 </div>
 
