@@ -7,20 +7,12 @@
 
 <div align="center"> 
   <h3 >Info about me:</h3>
-  <div style="display: flex; align-items: center; justify-content: center;">
-  <p>
-
-    🏠 I live in Palma del Río - Córdoba (Spain)
-
-    💗 I love everything that has to do with technology.
-
-    ⚡ I consider myself responsible, hardworking and a good partner.
-
-    🌱 I’m currently learning **Laravel**
-
-    📫 How to reach me: **adri27informatica@gmail.com**
-
-  </p>
+  <div style="display: flex; flex-flow: column wrap; justify-content: center; align-items: center;">
+    <div>🏠 I live in Palma del Río - Córdoba (Spain)</div>
+    <div>💗 I love everything that has to do with technology.</div>
+    <div>⚡ I consider myself responsible, hardworking and a good partner.</div>
+    <div>🌱 I’m currently learning **Laravel**</div>
+    <div>📫 How to reach me: **adri27informatica@gmail.com**</div>
   </div>
 </div>
 
