@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Adrián Martínez Vázquez</h1>
-<h3 align="center">A passionate software developer from (Spain)</h3>
+<h3 align="center">A passionate backend developer from Spain</h3>
 
 <p align="center"> 
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wxd73nzss9azs2aio9b26bnuv9h0l8k9w6klgjuk&rid=giphy.gif&ct=g">
@@ -19,7 +19,7 @@
 <div align="center">
   <h3>Connect with me:</h3>
   <p >
-  <a href="https://linkedin.com/in/adrián-martínez-vázquez-997030239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrián-martínez-vázquez-997030239" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/adri%C3%A1n-mart%C3%ADnez-v%C3%A1zquez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrián-martínez-vázquez-997030239" height="30" width="40" /></a>
   <a href="https://twitter.com/@adrimv27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adrimv27" height="30" width="40" /></a>
   </p>
 </div>
